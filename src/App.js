@@ -10,7 +10,8 @@ var emojiDict = {
   "😑": "annoyance",
   "💀": "signify death:of dignity",
   "😈": "When you have successfully manipulated",
-  "🥺": "pleading face to gain pity and make you do a request"
+  "🥺": "pleading face to gain pity and make you do a request",
+  "🙂": "I may look calm but am really very angry right now"
 };
 
 var emojis = Object.keys(emojiDict);
