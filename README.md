@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-![emoji](https://raw.githubusercontent.com/WadadParker/cash-register-app/main/emoji.PNG)
+![emoji](https://raw.githubusercontent.com/WadadParker/Emoji-interpreter/main/emoji.PNG)
 
 ## Connect with me
 
